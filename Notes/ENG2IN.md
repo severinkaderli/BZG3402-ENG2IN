@@ -170,3 +170,25 @@ https://moodle.bfh.ch/course/view.php?id=16522
 5.  wouldn't
 
 # Unit 7: Art for art's sake
+
+# Unit 8:
+
+## Vocabulary Exercise 2
+
+* a. product placement (e)
+* b. celebrity branding or endorsement (c)
+* c. magazine and newspaper adverts (g)
+* d. flyers (d)
+* e. sport advertising (b)
+
+3.  f
+4.  h
+5.  a
+
+## Vocabulary Exercise 4
+
+1.  Sports magazine
+2.  TV commercial
+3.  TV commercial
+4.  Flyers and posters
+5.  Online AD, Reviews & Tech Magazine
