@@ -192,3 +192,10 @@ https://moodle.bfh.ch/course/view.php?id=16522
 3.  TV commercial
 4.  Flyers and posters
 5.  Online AD, Reviews & Tech Magazine
+
+## Vocabulary Exercise 5
+
+1.  The users get very personal advertisments from billboards.
+2.  The billboards recognize the drivers by a chip in the key.
+3.  Because it's something special.
+4.  No. It sounds too much like a gimmick.
