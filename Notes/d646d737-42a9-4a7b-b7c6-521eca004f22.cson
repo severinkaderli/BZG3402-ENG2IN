@@ -1,5 +1,5 @@
 createdAt: "2018-02-23T13:29:07.560Z"
-updatedAt: "2018-04-25T14:36:04.528Z"
+updatedAt: "2018-05-25T14:02:24.898Z"
 content: '''
   # Modulinformationen
   
@@ -203,9 +203,15 @@ content: '''
   3.  Because it's something special.
   4.  No. It sounds too much like a gimmick.
   
+  # Unit 9
+  ## Grammar Exercise 4
+  1. They didn't ask their existing customers.
+  2. They should have listened more to the negative reviews.
+  3.  The iPhone, released a working product.
+  
 '''
 folder: "a74d2227d4befd72315b"
-title: "ENG2IN"
+title: "Modulinformationen"
 type: "MARKDOWN_NOTE"
 tags: []
 isStarred: false
